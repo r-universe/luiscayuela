@@ -2,12 +2,12 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "Taxonstand"]
+	path = Taxonstand
+	url = https://github.com/cran/Taxonstand
 [submodule "betaper"]
 	path = betaper
 	url = https://github.com/cran/betaper
 [submodule "rareNMtests"]
 	path = rareNMtests
 	url = https://github.com/cran/rareNMtests
-[submodule "Taxonstand"]
-	path = Taxonstand
-	url = https://github.com/cran/Taxonstand
